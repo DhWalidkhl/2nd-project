@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-site{
+    text-align: center;
+    color: white;
+    width: 1024px;
+    margin: 4px auto;
+    box-shadow: 1px 1px 6px rgba(0,0,0,.4);
+}
+
+.header-menu{
+    background: rgb(4, 128, 56);
+    padding: 20px;
+}
+.banner{}
+.container{
+    background: rgb(177, 3, 110);
+    padding: 40px 0;
+}
+.footer{
+    background: rgb(10, 93, 99);
+    padding: 25px 0;
+}
+.footer-bottom{
+    background: rgb(12, 209, 160);
+    padding: 12px 0;
+}
+img{
+    width: 1024px;
+    margin-bottom: -5px;
+}
